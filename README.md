@@ -6,7 +6,7 @@ This code has been tested with Python 3.5, Tensorflow 1.13, CUDA 9.0 and cuDNN 7
 
  - Clone the repository 
 ```
-git clone --depth=1  && cd PSD
+git clone --depth=1 https://github.com/Yachao-Zhang/PSD && cd PSD
 ```
 - Setup python environment
 ```
@@ -23,11 +23,14 @@ Download the files named "Stanford3dDataset_v1.2_Aligned_Version.zip". Uncompres
 - Preparing the dataset:
 ```
 python utils/data_prepare_s3dis.py
+```
 
 Training and test of weakly semantic Segmentation on S3DIS Area-5 by:
+
 '''
 sh jobs_s3dis_a5.sh 
 '''
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 
