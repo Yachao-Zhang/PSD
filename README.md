@@ -27,9 +27,9 @@ python utils/data_prepare_s3dis.py
 
 Training and test of weakly semantic Segmentation on S3DIS Area-5 by:
 
-'''
+```
 sh jobs_s3dis_a5.sh 
-'''
+```
 
 ### Citation
 If you find our work useful in your research, please consider citing:
