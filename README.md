@@ -43,7 +43,7 @@ If you find our work useful in your research, please consider citing:
     }
     
 A related work (Weakly Supervised Semantic Segmentation for Large-Scale Point Cloud AAAI-2021) can be found <a href="https://ojs.aaai.org/index.php/AAAI/article/view/16455">here</a>.
-
+   ```
    @inproceedings{zhang2021weakly,
         title={Weakly Supervised Semantic Segmentation for Large-Scale Point Cloud},
         author={Zhang, Yachao and Li, Zonghao and Xie, Yuan and Qu, Yanyun and Li, Cuihua and Mei, Tao},
@@ -53,6 +53,6 @@ A related work (Weakly Supervised Semantic Segmentation for Large-Scale Point Cl
         pages={3421--3429},
         year={2021}
     }
-    
+    ```
 ### Acknowledgment
 Note that this code is heavily borrowed from RandLA-Net (https://github.com/QingyongHu/RandLA-Net).
