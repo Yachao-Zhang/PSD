@@ -54,5 +54,6 @@ A related work (Weakly Supervised Semantic Segmentation for Large-Scale Point Cl
         year={2021}
     }
     ```
+    
 ### Acknowledgment
 Note that this code is heavily borrowed from RandLA-Net (https://github.com/QingyongHu/RandLA-Net).
